@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aejohthuph.megingat.hu/sitemap.xml
